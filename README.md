@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p>I'm a Full Stack Developer passionate about creating intuitive frontends and robust backends. 🚀</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=KAO%20SOKMEAN&section=header&reversal=false&textBg=false&fontAlign=50&animation=twinkling&rotate=-1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=SOKMEAN%KAO&section=header&reversal=false&textBg=false&fontAlign=50&animation=twinkling&rotate=-1" />
 
 ### 🛠️ Languages
 <p>
